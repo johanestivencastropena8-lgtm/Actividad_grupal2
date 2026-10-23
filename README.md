@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADSO - Aseguramiento de Calidad mediante Git y GitHub
 
 Proyecto colaborativo para practicar control de versiones, commits convencionales,
@@ -19,3 +20,6 @@ ramas de trabajo, Pull Requests, revisión de código y resolución de conflicto
 
 ```bash
 npm start
+=======
+# Actividad_grupal2
+>>>>>>> origin/main
