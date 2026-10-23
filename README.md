@@ -19,24 +19,3 @@ ramas de trabajo, Pull Requests, revisión de código y resolución de conflicto
 
 ```bash
 npm start
-```
-
-## Ejecutar las pruebas
-
-```bash
-npm test
-```
-
-## Flujo de trabajo colaborativo
-
-1. Crear una rama `feature/modulo-registro` o `feature/modulo-reportes`.
-2. Hacer commits pequeños con mensajes como `feat:`, `fix:` y `docs:`.
-3. Publicar la rama con `git push`.
-4. Abrir un Pull Request dirigido a `main`.
-5. El compañero revisa los cambios en **Files changed**, deja comentarios y envía una revisión.
-6. Corregir los comentarios solicitados y fusionar el Pull Request cuando esté aprobado.
-
-## Exclusiones
-
-El archivo `.gitignore` excluye variables de entorno, logs, dependencias instaladas,
-archivos compilados y archivos temporales. No se deben subir secretos reales.
